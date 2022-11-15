@@ -1,0 +1,18 @@
+name: Skyblock
+version: '${project.version}'
+main: me.skyblock.Skyblock
+api-version: 1.17
+
+commands:
+  'eco':
+    description: Economy command for admins
+  'menu':
+    description: Skyblock Menu Command
+  'test':
+    description: Test command
+  'nbt':
+      description: NBT test command
+  'dunggen':
+      description: Dungeon gen
+  'stats':
+      description: idk
