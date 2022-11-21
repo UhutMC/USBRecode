@@ -1,4 +1,4 @@
-package me.skyblock.items.armor;
+package me.skyblock.items.swords;
 
 import me.skyblock.items.SItem;
 import me.skyblock.items.Type;

@@ -1,22 +1,20 @@
 package me.skyblock.items;
 
 import me.skyblock.Skyblock;
-import me.skyblock.damage.Damage;
 import me.skyblock.enchants.EnchantEnum;
 import me.skyblock.items.armor.*;
 import me.skyblock.items.bows.TerminatorBow;
 import me.skyblock.items.materials.EnchantedSugar;
 import me.skyblock.items.misc.*;
 import me.skyblock.items.swords.BonzoStaff;
+import me.skyblock.items.swords.DimoonizaryDagger;
 import me.skyblock.player.User;
 import org.apache.commons.lang3.text.WordUtils;
 import org.bukkit.Material;
 import org.bukkit.NamespacedKey;
 import org.bukkit.event.EventHandler;
-import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
-import org.bukkit.event.player.PlayerInteractEntityEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
 import org.bukkit.inventory.ItemFlag;
 import org.bukkit.inventory.ItemStack;
